@@ -10,7 +10,7 @@ Click
 and copy this template repository. Make your new repository is public so that I can see it.  
 
 
-### Open the Jupyter notebook project1.ipynb in Google colab.
+### Open the Jupyter notebook project2.ipynb in Google colab.
 Click the following badge to open the notebook in Google Colab. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
